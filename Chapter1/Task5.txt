@@ -1,0 +1,16 @@
+Q)Reflect on Dependencies: Think about all the services and tools you’d rely on during your Swiss journey,
+from travel agencies to GPS apps. How do these dependencies relate to the Dependency Inversion Principle
+in software design?
+
+Imagine you're going on a trip to Switzerland. Your big plan and checklist for the trip are 
+like the most important things.
+
+***High-level dependencies:
+ are like the really important stuff you need for your whole trip, like your plan and checklist.
+
+***Low-level dependencies :
+are like the smaller things that help make your trip happen, such as the things you need while traveling.
+
+***Abstraction :
+is a bit like using services that make your travel easier, like travel agencies and GPS apps. 
+They take care of the complicated stuff for you.

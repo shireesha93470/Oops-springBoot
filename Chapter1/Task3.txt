@@ -1,0 +1,24 @@
+Q)Travel Constraints: Consider restrictions or rules you might encounter on your journey, like luggage weight
+limits or visa requirements. How would these constraints translate to software design principles?
+
+ ***Single Responsibility Principle :
+    Imagine airport workers checking your bags. They have one job: making sure everything is safe
+    for your trip. If something's not safe, they take it out.
+
+ ***Open/Closed Principle :
+    Think of your travel bag. When you want to add more things for a new trip, you add without 
+   taking out what you already packed. Your bag stays open for new stuff.
+
+ ***Liskov Substitution Principle :
+    Suppose you plan to go to the beach, but the weather changes. You might choose a different 
+   fun place instead, but you don't change your whole plan.
+
+ ***Interface Segregation Principle :
+    When you plan a trip, you gather what you need. Later, you might change some plans based on 
+   the weather and your likes, but you don't cancel your entire trip. You stay flexible.
+
+ ***Dependency Inversion Principle :
+    At first, you focus on gathering important things like papers and clothes for your journey. 
+   But as your trip goes on, you might want to explore specific places. Think of the "big plan" as
+    a higher part and the "special places" as lower parts. It's like adjusting your journey without 
+    changing everything you already planned.

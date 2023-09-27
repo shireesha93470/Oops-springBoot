@@ -1,0 +1,22 @@
+Q)Customized Itinerary: Design a travel itinerary for a friend who has different preferences than you. How
+would you ensure that your base plan (OOP) can be adapted to fit their needs (Design Principles)?
+
+***Encapsulation:
+    Imagine when you travel, there's a rule that says you can't carry too much stuff.
+     Encapsulation is like putting your things in a special bag where only you can open it. 
+     Others can't mess with your things directly.
+
+ ***Abstraction:
+    Visas are like special permission slips to enter different countries. 
+    Abstraction is like not worrying about all the complicated rules to get a visa. 
+    Instead, you just talk to the visa office, and they handle the hard stuff, making it easier for you.
+
+***Inheritance:
+   Airlines have their own rules for booking tickets. Inheritance is like when different 
+   types of tickets (like first class and economy) follow some basic booking rules. First 
+   class tickets can add or change a few rules, but they still follow the main ones.
+
+ ***Polymorphism:
+   Hotels have different times when you can check in. Polymorphism is like being ready to adapt
+    to different check-in times. You might arrive at a hotel at any time, and you adjust your plans
+     without knowing the exact check-in time until you get there.

@@ -1,0 +1,27 @@
+Q) Map Creation: Think of a real-world system, like a library or a shopping mall. How would you model it
+using OOP concepts? What are the objects, their attributes, and behaviors? How do they interact?
+
+Ans) For Map creation i am taking shopping mall as an example 
+
+***Encapsulation:In a shopping mall, encapsulation means securing  the important information about each 
+store and shopper so that it's not easily accessible to everyone. By using encapsulation, we ensure 
+that sensitive information in the mall's system is protected and only accessed in a controlled manner, 
+making the mall's operation more secure and organized.
+
+***Inheritance:Inheritance in a shopping mall example is like passing  certain qualities from one group 
+of people to another, like from parents to children.for example if we can take one person that person 
+is the base class in shopping mall we have one group of people for them we have to give one name and an age
+etc these are common qualities for all of them.and in sub class we have to take employee they also have their
+name and age from regular people, but they have one extra quality , like an employee ID, because they have 
+a special role in the mall. 
+
+***Polymorphism:Imagine a payment system in a mall. People can pay in different ways, like with cash or a 
+credit card. Polymorphism is like having a single payment machine that can accept any type of payment method.
+For example, when you want to pay, you go to the payment machine and say, "I want to pay." You don't care if 
+it's a credit card machine or a cash machine; you just know it will handle your payment.
+
+***Abstraction:In a shopping mall example, abstraction is like using a vending machine to buy snacks. You don't 
+need to know how the machine is built or how it delivers the snacks. Instead, you just interact with its buttons 
+and get the snacks you want.
+
+
